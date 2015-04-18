@@ -8,7 +8,7 @@
           </block>
         </value>
         <next>
-          <block type="movement_reverse" id="27">
+          <block type="movement_reverse" id="4">
             <next>
               <block type="oled_cleardisplay" id="5">
                 <next>
